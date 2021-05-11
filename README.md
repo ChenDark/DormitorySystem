@@ -1,3 +1,5 @@
+国内Gitee地址：https://gitee.com/chendark/dormitory-system
+
 # 数据库的创建
 1.大致分配：
 
